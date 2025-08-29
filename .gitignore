@@ -6,6 +6,7 @@
 
 !.gitlab-ci.yml
 !/Assets
+!/doc
 !_includes
 !/ProjectSettings
 !README.md
